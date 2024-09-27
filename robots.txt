@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow:
+
+
+Sitemap: http://pin-up.survivaldesertisland.pro/sitemap.xml
+Host: pin-up.survivaldesertisland.pro
+
